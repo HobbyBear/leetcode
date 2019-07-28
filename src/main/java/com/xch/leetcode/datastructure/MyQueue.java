@@ -4,6 +4,7 @@ import java.util.Arrays;
 import java.util.stream.IntStream;
 
 /**
+ * 固定大小的队列
  * @author: xch
  * @create: 2019-07-18 17:15
  **/
